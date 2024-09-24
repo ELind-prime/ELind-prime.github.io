@@ -1,1 +1,19 @@
+body {
+  background-color:gray;
+  color: Black ;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 15% 20%;
+}
 
+.exp-header {
+  text-transform:uppercase;
+  border-top: 1px solid ;
+  border-bottom: 1px solid ;
+  background color: rgba (0,0,0,0.1);
+ 
+}
+
+
+h4{
+  font-size:28px;
+}
